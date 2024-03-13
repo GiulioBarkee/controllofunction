@@ -1,0 +1,14 @@
+{
+  "logo": "@assets/alex.jpg",
+  "secondaryColor": "#356e6c",
+  "title": "DIY",
+  "header": [
+    {
+      "title": "MENU",
+      "url": "https://www.google.it/?gfe_rd=cr&dcr=0&ei=-B4PWuPxBujBXq2OmtAF"
+    }
+  ],
+  "contacts": {
+    "hero": "clubb"
+  }
+}
