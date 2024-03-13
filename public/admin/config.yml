@@ -2,7 +2,7 @@ backend:
   name: github
   branch: main # Branch to update (optional; defaults to master)
   repo: giuliobarkee/controllofunction
-  base_url: https://controllofunction.pages.dev
+  base_url: https://giuliobarkee.pages.dev
   auth_endpoint: /api/auth
 
 local_backend: true
